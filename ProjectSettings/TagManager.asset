@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - SelectedCharacter
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Obstacle
+  - Decoration
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1282413857
+    locked: 0
+  - name: Shadow
+    uniqueID: 2991502255
+    locked: 0
+  - name: Obstacle
+    uniqueID: 3118836143
+    locked: 0
+  - name: Plant
+    uniqueID: 3666022551
+    locked: 0
+  - name: Player
+    uniqueID: 187267705
+    locked: 0
+  - name: Decoration
+    uniqueID: 3670645151
+    locked: 0

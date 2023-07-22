@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cb5c213dc338b2448ba5a89b72a3cf4d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - NicoClean
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: da157525ba895cc478218d5cd965d650, type: 3}
+  - {fileID: 12800000, guid: 077c8cd9ce4f853489c5b0e8317ef426, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
